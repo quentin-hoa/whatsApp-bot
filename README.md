@@ -23,6 +23,8 @@ home automation scripts.
   that other scripts on the Pi can call to push messages into a WhatsApp
   group or contact (e.g. a web page notifying that the cat has been fed).
 
+![image1](./whatsappbot1.jpeg) ![image1](./whatsappbot2.jpeg)
+
 ## Architecture
 
 ```
